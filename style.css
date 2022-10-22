@@ -16,7 +16,7 @@
 .box h3
 {
     font-size: 100px;
-    opacity: 100%;
+    opacity: 0%;
     text-align: center;
     position: relative;
     z-index: 100;
